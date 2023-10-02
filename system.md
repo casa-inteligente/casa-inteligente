@@ -7,7 +7,7 @@ Sistema para uma casa intligênte (smart house).
 
 ## Funcionando:
 - [x] [Vago](https://github.com/OgliariNatan/OgliariNatan) - VAGO  
-  - Duas unidades
+  - Exemplo
  
 
 
