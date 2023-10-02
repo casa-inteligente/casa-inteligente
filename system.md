@@ -2,10 +2,10 @@
 Sistema para uma casa intligênte (smart house).
 
 ## Em Fase de Desenvolvimento:
-- [ ] [Vago](https://github.com/OgliariNatan/OgliariNatan) - VAGO  
+- [ ] [Iluminaria](https://github.com/casa-inteligente/bolsaDePesquisa.git) - Iluminaria  
 
 
-## Instalados no Sistema:
+## Funcionando:
 - [x] [Vago](https://github.com/OgliariNatan/OgliariNatan) - VAGO  
   - Duas unidades
  
